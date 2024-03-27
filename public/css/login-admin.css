@@ -1,0 +1,306 @@
+.lambang-kota-payakumbuh-remove-icon5 {
+  height: 75px;
+  width: 55.8px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.e-kelurahan2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.kota-payakumbuh2 {
+  position: relative;
+  font-size: var(--h6-16px-regular-inter-size);
+  font-weight: 500;
+}
+.e-kelurahan-parent,
+.logo-kota-payakumbuh-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.e-kelurahan-parent {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: 7px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.logo-kota-payakumbuh-inner {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.logo-kota-payakumbuh,
+.logo-kota-payakumbuh-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.logo-kota-payakumbuh {
+  align-self: stretch;
+  flex: 1;
+  align-items: flex-end;
+  gap: 21.200000000000728px;
+}
+.logo-kota-payakumbuh-wrapper {
+  width: 300px;
+  height: 75px;
+  align-items: flex-start;
+  padding: 0 39px;
+  box-sizing: border-box;
+}
+.frame-child45 {
+  width: 386px;
+  height: 308px;
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: none;
+  max-width: 100%;
+}
+.login6 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--h6-16px-regular-inter);
+  color: var(--color-darkslategray-100);
+  text-align: left;
+  display: inline-block;
+  min-width: 65px;
+  z-index: 1;
+}
+.login-container1 {
+  width: 307px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.person-icon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  z-index: 1;
+}
+.placeholder {
+  position: relative;
+  font-size: var(--font-size-xs);
+  font-family: var(--h6-16px-regular-inter);
+  color: var(--color-darkgray-100);
+  text-align: left;
+  display: inline-block;
+  min-width: 58px;
+}
+.input,
+.selection {
+  background-color: var(--ffffff-bg-1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-4xs-5) 0;
+}
+.input {
+  align-self: stretch;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-silver);
+  align-items: flex-start;
+  padding: 0 var(--padding-5xs);
+}
+.username {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  z-index: 2;
+}
+.form-item,
+.selection-username,
+.username {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.form-item {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  z-index: 1;
+}
+.selection-username {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  min-width: 156px;
+}
+.person-parent,
+.selection1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.person-parent {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 13px;
+}
+.selection1 {
+  width: 56px;
+  border: 0;
+  outline: 0;
+  background-color: var(--ffffff-bg-1);
+  height: 32px;
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-4xs-5) 0;
+  box-sizing: border-box;
+  font-family: var(--h6-16px-regular-inter);
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-100);
+}
+.lock-icon {
+  height: 46.88%;
+  width: 5.29%;
+  position: absolute;
+  margin: 0 !important;
+  top: 25%;
+  right: 3.46%;
+  bottom: 28.13%;
+  left: 91.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.input1,
+.password {
+  overflow: hidden;
+  align-items: flex-start;
+}
+.input1 {
+  align-self: stretch;
+  border-radius: var(--br-9xs);
+  background-color: var(--ffffff-bg-1);
+  border: 1px solid var(--color-silver);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 8.299999999999272px 0 var(--padding-5xs);
+  position: relative;
+}
+.password {
+  width: 240px;
+  flex-direction: column;
+  z-index: 1;
+}
+.frame-parent5,
+.frame-wrapper8,
+.password {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent5 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-2xl);
+}
+.frame-wrapper8 {
+  width: 293px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xs);
+  box-sizing: border-box;
+}
+.frame-child46 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--a57e8-primary);
+  border: 1px solid var(--a57e8-primary);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  z-index: 1;
+}
+.login7 {
+  position: absolute;
+  top: 9px;
+  left: 135px;
+  font-size: var(--h6-16px-regular-inter-size);
+  display: inline-block;
+  font-family: var(--h6-16px-regular-inter);
+  color: var(--color-aliceblue);
+  text-align: left;
+  min-width: 44px;
+  z-index: 2;
+}
+.rectangle-parent27 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 315px;
+  height: 40px;
+  position: relative;
+}
+.frame-form,
+.login-admin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame-form {
+  margin: 0;
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  padding: 11px var(--padding-13xl) 62px;
+  gap: var(--gap-21xl);
+  max-width: 100%;
+}
+.login-admin {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  overflow: hidden;
+  padding: 112px 482px 111px;
+  gap: 44px;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--h6-16px-regular-inter);
+}
+@media screen and (max-width: 675px) {
+  .login-admin {
+    gap: 22px 44px;
+    padding-left: var(--padding-222xl);
+    padding-right: var(--padding-222xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .e-kelurahan2,
+  .login6 {
+    font-size: var(--h5-19px-poppins-size);
+  }
+  .frame-form {
+    gap: 20px 40px;
+  }
+  .login-admin {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
